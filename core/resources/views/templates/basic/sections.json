@@ -1,0 +1,299 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1195"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+
+        }
+    },
+    "location": {
+        "builder": true,
+        "name": "Location Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1280"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text",
+            "button": "text",
+            "button_url": "text"
+
+        }
+    },
+    "property_type": {
+        "builder": true,
+        "name": "Property Type Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "top_trip": {
+        "builder": true,
+        "name": "Top Trip Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1090"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+
+        }
+    },
+    "works": {
+        "builder": true,
+        "name": "How it works Section",
+        "content": {
+            "title": "text",
+            "heading": "text",
+            "images": {
+                "background_image": {
+                    "size": "1920x1090"
+                },
+                "left_image": {
+                    "size": "575x755"
+                },
+                "right_image": {
+                    "size": "665x785"
+                }
+            }
+        },
+        "element": {
+            "step": "text",
+            "modal": true
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "name": "text",
+            "feedback": "textarea",
+            "star": "text",
+            "images": {
+                "image": {
+                    "size": "440x290"
+                }
+            },
+            "modal": true
+        }
+    },
+    "video": {
+        "builder": true,
+        "name": "Video Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x1280"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text",
+            "video_url": "text"
+
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text"
+        },
+        "element": {
+            "images":{
+                "blog_image":{
+                    "size":"860x550",
+                    "thumb":"430x275"
+                }
+            },
+            "title": "text",
+            "description_nic": "textarea-nic",
+            "modal": false
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Section",
+        "content": {
+            "images":{
+                "background_image":{
+                    "size":"1920x840"
+                }
+            },
+            "short_description": "text",
+            "address": "text"
+
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "title": "text",
+            "contact_address": "text",
+            "email_address": "text",
+            "contact_number": "text",
+            "contact_form_title": "text",
+            "google_map_embed_url": "textarea"
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x2190"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "register": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Register Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x2190"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "2fa_verify": {
+        "builder": true,
+        "no_selection": true,
+        "name": "2FA Verify Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x2190"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "email_verify": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Email Verify Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x2190"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "sms_verify": {
+        "builder": true,
+        "no_selection": true,
+        "name": "SMS Verify Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x2190"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "code_verify": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Code Verify Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x2190"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "reset_password_email": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Reset Password Email",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x2190"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    },
+    "reset_password": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Reset Password Section",
+        "content": {
+            "images": {
+                "background_image": {
+                    "size": "1920x2190"
+                }
+            },
+            "heading": "text",
+            "sub_heading": "text"
+        }
+    }
+}
